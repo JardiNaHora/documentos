@@ -6,9 +6,9 @@ Este repositório é privado e destinado apenas a membros autorizados da nossa o
 
 Para acessar a documentação confidencial, navegue pelos arquivos na raiz deste repositório. Você encontrará informações detalhadas sobre vários tópicos, incluindo:
 
-- [Requisitos e Regras de Negócio](REQUISITOS-REGRAS.md)
-- [Diagramas](DIAGRAMAS.md)
-- [Protótipos](PROTOTIPOS.md)
+- [Requisitos e Regras de Negócio](pages/REQUISITOS-REGRAS.md)
+- [Diagramas](pages/DIAGRAMAS.md)
+- [Protótipos](pages/PROTOTIPOS.md)
 
 ## Acesso Restrito
 
