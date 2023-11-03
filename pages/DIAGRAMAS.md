@@ -1,6 +1,6 @@
 # Diagramas do Projeto
 
-Neste documento, apresentamos diversos diagramas que ajudam a entender a arquitetura e o funcionamento do Sistema de Monitoramento da Jardineira.
+Neste documento, apresentamos diversos diagramas que ajudam a entender a arquitetura e o funcionamento do JardiNaHora.
 
 <details>
   <summary><strong>Diagrama de Caso de Uso do Sistema</strong></summary>
