@@ -1,6 +1,6 @@
 # Protótipos do Projeto
 
-Neste documento, apresentamos diversos protótipos que ajudam a entender a interface do usuário do Sistema de Monitoramento da Jardineira.
+Neste documento, apresentamos diversos protótipos que ajudam a entender a interface do usuário do JardiNaHora.
 
 <details>
   <summary><strong>Tela de Login</strong></summary>
