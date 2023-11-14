@@ -1,4 +1,4 @@
-# Sobre Este Repositório
+# JardiNaHora - Documentos
 
 Este repositório é privado e destinado apenas a membros autorizados da nossa organização. Aqui você encontrará documentos confidenciais, incluindo requisitos, regras de negócio, diagramas e protótipos.
 
